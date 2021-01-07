@@ -1,4 +1,4 @@
-# Jan 7, 2020 -Check if the input is Integer or not
+# Jan 7, 2021 -Check if the input is Integer or not
 string = str(input())
 check = True;
 for i in string:
