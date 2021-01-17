@@ -1,3 +1,4 @@
+#Jan 17, 2021 - find a max pairwise product of the given inputs.
 from typing import List
 
 def max_pairwise_product(lst: List) -> int:
